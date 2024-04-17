@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <title>Azure Global 2024</title>
+    <style>
+        body {
+            background-color: #e6f7ff; /* bardzo jasny niebieski */
+            color: #03396c; /* ciemnoniebieski tekst */
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            padding: 20px;
+        }
+        header, footer {
+            background-color: #0078d7; /* jasnoniebieski */
+            color: white; /* biały tekst */
+            padding: 10px;
+            text-align: center;
+        }
+        section {
+            background-color: #deebf7; /* blady niebieski */
+            padding: 15px;
+            margin-top: 20px;
+            border-radius: 8px;
+        }
+        h1, h2 {
+            color: #004c87; /* ciemniejszy niebieski */
+        }
+        p {
+            line-height: 1.6;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Azure Global 2024</h1>
+    </header>
+    <section>
+        <h2>Czym jest Azure Global?</h2>
+        <p>Azure Global to wydarzenie skupiające sie na innowacjach w technologiach chmurowych, organizowane przez Microsoft Azure. Konferencja ta przyciaga specjalistow IT, deweloperow, liderow biznesowych oraz entuzjastow technologii (czyli Was :) ) z calego swiata, oferujac warsztaty oraz prelekcje zwiazane z platforma Azure.</p>
+        <p>Podczas Azure Global 2024 uczestnicy maja okazje do uczestnictwa w licznych prezentacjach, warsztatach i panelach dyskusyjnych. Tematyka obejmuje najnowsze osiagniecia w dziedzinach takich jak sztuczna inteligencja, analiza danych, bezpieczenstwo w chmurze, a takze integracja i zarzadzanie aplikacjami.</p>
+        <p>Obecnie znajdujemy sie na sesji warsztatow organizowanych w Krakowie, ktore sa czescia Azure Global 2024. Sesja ta jest sponsorowana przez Avanade, globalnego lidera w dostarczaniu innowacyjnych rozwiazan technologicznych.</p>
+    </section>
+    <footer>
+        <p>Wiecej informacji znajdziesz na oficjalnej stronie wydarzenia.</p>
+    </footer>
+</body>
+</html>
