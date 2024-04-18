@@ -1,7 +1,7 @@
 locals {
   location="Sweden Central"
   virtual_network = {
-    name="vnet-user0"
+    name="vnet-user0" #username
     address_space="10.1.0.0/16"
 }
 iis_installation = "Install-WindowsFeature -name Web-Server -IncludeManagementTools"
